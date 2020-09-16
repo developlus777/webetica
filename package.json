@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "![Tarjeta de Presentacion hecha con HTML, CSS y Javascript (Jquery)](https://raw.githubusercontent.com/falconmasters/Tarjeta-de-Presentacion/master/thumb.jpg)",
   "main": "index.js",
-  "homepage": "https://developlus777.github.io/webwtica/",
+  "homepage": "https://developlus777.github.io/webetica/",
   "scripts": {
+    
     "deploy" :"gh-pages deploy"
   },
   "keywords": [],
